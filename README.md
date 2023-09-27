@@ -1,5 +1,5 @@
 <h1 align="center">Hola, yo soy Marian Sofia 👋</h1>
-<h3 align="center">Un Front-End apasionado de Colombia</h3>
+<h3 align="center">Desarrolladora BackEnd</h3>
 
 - 🔭 Actualmente estoy trabajando en [Henrify Proyecto Final](https://movies-front-tau.vercel.app/)
 
