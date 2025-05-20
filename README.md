@@ -1,7 +1,7 @@
 <h1 align="center">Hola, yo soy Marian Sofia 👋</h1>
 <h3 align="center">Desarrolladora BackEnd</h3>
 
-- 🔭 Actualmente estoy trabajando en Mille Tendresse la cual es un proyecto personal para un emprendimiento.
+- 🔭 Actualmente estoy trabajando en Mille Tendresse la cual es un proyecto personal para un emprendimiento. Usando Golang, Docker, AWS, entre otras.
 
 - 📫 Cómo ponerse en contacto conmigo **sofiagutierrez0031@gmail.com** o al # +57 3134961006
 
