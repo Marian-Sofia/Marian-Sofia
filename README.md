@@ -1,13 +1,9 @@
 <h1 align="center">Hola, yo soy Marian Sofia 👋</h1>
 <h3 align="center">Desarrolladora BackEnd</h3>
 
-- 🔭 Actualmente estoy trabajando en [Henrify Proyecto Final](https://movies-front-tau.vercel.app/)
+- 🔭 Actualmente estoy trabajando en Mille Tendresse la cual es un proyecto personal para un emprendimiento.
 
-- 🌱 Estoy en proceso de aprender nuevas tecnologias como **Nest, Jest y Prisma.**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio-marian-sofia.vercel.app/](https://portafolio-marian-sofia.vercel.app/)
-
-- 📫 Cómo ponerse en contacto conmigo **sofiagutierrez0031@gmail.com**
+- 📫 Cómo ponerse en contacto conmigo **sofiagutierrez0031@gmail.com** o al # +57 3134961006
 
 - 📄 Conoce mis experiencias [https://www.linkedin.com/in/marian-sofia](https://www.linkedin.com/in/marian-sofia)
 
